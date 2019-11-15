@@ -1,2 +1,2 @@
 # electroguys
-Handle college work
+A website help to solve your every study related problems!
